@@ -55,7 +55,7 @@ La radiothérapie repose sur la destruction ciblée de l'ADN des cellules tumora
 
 ---
 
-### 💡 Points Clés
+### Points Clés
 
 **Meilleure performance** : Utilisation du CT Scan seul (PSNR 52,57 dB)
 
