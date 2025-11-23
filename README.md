@@ -50,6 +50,7 @@ La radiothérapie repose sur la destruction ciblée de l'ADN des cellules tumora
 ### Reconstruction Visuelle
 
 ![Résultat de reconstruction](LS+CT.png)
+
 *Figure : Résultats de reconstruction en utilisant l'enrée Low Sampling et le CT mask avec uniquement un modèle U-Net*
 
 ---
